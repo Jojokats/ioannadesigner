@@ -1,0 +1,121 @@
+@media (max-width: 768px){
+  .content {
+	padding: 40% 0 0;
+	}
+}
+
+
+@media (max-width: 603px){
+  #tf-menu.navbar-default {
+  	background-color: rgba(0, 0, 0, 0.79);
+  }
+
+  #tf-works li.pull-right, #tf-works li.pull-left {
+      margin-top: 10px;
+      float: none !important;
+      text-align: center;
+      display: block;
+  }
+
+  label{
+      float: none !important;
+  }
+
+  .pull-left.fnav,
+  .pull-right.fnav {
+      float: none !important;
+      text-align: center;
+  }
+
+  .hover-bg .hover-text {
+        padding: 12% 10%;
+  }
+}
+
+
+@media (max-width: 360px){
+  .hover-bg .hover-text {
+      padding: 22% 10%;
+  }
+}
+
+
+@media (min-width: 762px) {
+  #tf-services .service p:nth-child(3) {
+    padding-bottom: 0px;
+  }
+
+}
+
+
+@media (min-width: 769px) {
+
+    #tf-home {
+    background: url('../img/hero/keyboard-hands-ipad-min.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+    #tf-home .content h1 {
+      margin-top: 6rem;
+    }
+    #tf-home .content {
+      padding-bottom: 3%;
+    }
+    #tf-home .lead {
+      margin-bottom: 5rem;
+    }
+    #tf-menu a.navbar-brand {
+      width: 100px;
+    }
+
+    #tf-clients{
+      background: url("../img/macbook-lg-min.jpg");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      color: #ffffff;
+    }
+
+    #tf-testimonials{
+      background: url("../img/leaf.jpg");
+      background: url("../img/arch-bg.jpg");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      color: #ffffff;
+    }
+
+
+  }
+
+
+@media (min-width: 992px) {
+  #tf-home {
+    background: url('../img/hero/keyboard-hands-pro-min.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+   #tf-services{
+      background: url("../img/girl-iphone.jpg");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      color: #ffffff;
+    }
+
+  #tf-services p.skills {
+    padding-bottom: 0px;
+  }
+
+}
+
+
