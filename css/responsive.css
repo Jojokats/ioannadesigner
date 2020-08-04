@@ -81,7 +81,7 @@
     }
 
     #tf-testimonials{
-      background: url("../img/leaf.jpg");
+      /* background: url("../img/leaf.jpg"); */
       background: url("../img/arch-bg.jpg");
       background-size: cover;
       background-position: center;
@@ -117,5 +117,6 @@
   }
 
 }
+
 
 

@@ -762,7 +762,7 @@ h2.head-blog-title {
 .blog-item-body h3 {
   font-size: 22px;
   font-weight: 500;
-  margin: 20px 0 10px 0;
+  margin: 40px 0 10px 0;
   line-height: 1.4;
 }
 
@@ -771,7 +771,7 @@ h2.head-blog-title {
 }
 
 .blog-entry-body p {
-  margin-bottom: 13px;
+  margin-bottom: 1.1rem;
 }
 
 .blog-entry-body ul, .blog-entry-body blockquote {
@@ -822,7 +822,7 @@ h2.head-blog-title {
 }
 
 .blog-entry-foot {
-  margin-top: 12px;
+  margin-top: 50px;
 }
 
 
@@ -948,6 +948,39 @@ button.btn.tf-btn.btn-default {
 	text-decoration: none;
 	color: #54DEFD;
 }
+
+/***********************************************************************************************/
+/* VEGAN: */
+/***********************************************************************************************/
+/* #blog-head > div > div > div.col-md-8 > div */
+
+
+.blog-entry-meta > a {
+	color: #5a5a5a;
+	font-size: 1.1rem;
+}
+
+#main > article > div.blog-item-body .blog-entry-foot .btn-project {
+	padding: 8px 40px;
+}
+
+.blog-entry-body p.text {
+	font-size: 1.6rem;
+  }
+
+ 
+  #section-blog .text a.dark {
+	color: #000;
+  }
+ 
+  #section-blog .text a.dark:hover {
+	text-decoration: underline;
+	color: #5a5a5a;
+    transition: 0.3s;
+  }
+
+
+ 
 
 
 /***********************************************************************************************/
