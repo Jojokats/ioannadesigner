@@ -994,6 +994,25 @@ button.btn.tf-btn.btn-default {
     transition: 0.3s;
   }
 
+  /* 252525# */
+
+  #main .blog-media .book {
+	width 30%;
+	margin: 0 auto;
+  }
+
+  #main > article:nth-child(3) > div:nth-child(1) {
+	  margin-bottom: 120px;
+  }
+
+
+  .blog-media h2.before {
+	  color: #252525;
+	  margin-bottom: 50px;
+
+  }
+  
+
 
  
 
