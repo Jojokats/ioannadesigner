@@ -964,7 +964,7 @@ button.btn.tf-btn.btn-default {
 }
 
 /***********************************************************************************************/
-/* VEGAN: */
+/* VEGAN & other pages: */
 /***********************************************************************************************/
 /* #blog-head > div > div > div.col-md-8 > div */
 
@@ -1002,7 +1002,7 @@ button.btn.tf-btn.btn-default {
   }
 
   #main > article:nth-child(3) > div:nth-child(1) {
-	  margin-bottom: 120px;
+	  /* margin-bottom: 120px; */
   }
 
 
