@@ -1005,10 +1005,18 @@ button.btn.tf-btn.btn-default {
 	  /* margin-bottom: 120px; */
   }
 
+  h2.dark.before {
+	  margin-top: 80px;
+  }
+
 
   .blog-media h2.before {
 	  color: #252525;
 	  margin-bottom: 50px;
+  }
+
+  img.iphone {
+	margin: 0 auto;
   }
 
  
