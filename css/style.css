@@ -984,13 +984,15 @@ button.btn.tf-btn.btn-default {
 
  
   #section-blog .text a.dark {
-	color: #000;
+	/* color: #000; */
 	text-decoration: underline;
+	color: #F16059;
   }
  
   #section-blog .text a.dark:hover {
 	text-decoration: none;
-	color: #5a5a5a;
+	/* color: #5a5a5a; */
+	color: #BE4C46;
     transition: 0.3s;
   }
 
