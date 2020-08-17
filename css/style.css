@@ -722,9 +722,9 @@ a.btn-next:hover {
 }
 
 a.btn-project:hover {
-	background: #5a5a5a;
+	/* background: #5a5a5a;
+	border: 1px solid #5a5a5a; */
 	color: #fff;
-	border: 1px solid #5a5a5a;
 	background: #252525;
 	border: 1px solid #252525;
 }
