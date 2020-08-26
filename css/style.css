@@ -722,10 +722,20 @@ a.btn-next:hover {
 }
 
 a.btn-project:hover {
-	/* background: #5a5a5a;
-	border: 1px solid #5a5a5a; */
 	color: #fff;
 	background: #252525;
+	border: 1px solid #252525;
+}
+
+.blog-entry-foot .btn-project-blk {
+	color: #ffffff;
+	background: #252525;
+  border: 1px solid #252525;
+}
+
+a.btn-project-blk:hover {
+	color: #252525;
+	background: #fff;
 	border: 1px solid #252525;
 }
 
