@@ -851,6 +851,10 @@ h2.head-blog-title {
   margin-top: 50px;
 }
 
+#main > article.section-title.blog-post > div.blog-media.text-center.center > h2.herbdesigns {
+	margin-top: 150px;
+}
+
 
 /***********************************************************************************************/
 /* =Contact Section section */
